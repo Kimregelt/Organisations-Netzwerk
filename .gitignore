@@ -1,0 +1,28 @@
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Supabase temporary files
+supabase/.temp/
+
+# Windows
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# ZIP-Dateien
+*.zip
+
+# Private Notizen
+README.txt
+
+# Quelldaten
+data/*.xlxs
